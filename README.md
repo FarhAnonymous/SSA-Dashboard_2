@@ -1,20 +1,40 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Interactive ESG Scoring Dashboard
 
-# Run and deploy your AI Studio app
+**Interactive ESG Scoring Dashboard** is a web-based analytical tool designed to evaluate and visualize the performance of organizations across key *Environmental*, *Social*, and *Governance (ESG)* indicators.  
+The system provides a structured framework for sustainability assessment, allowing users to dynamically adjust parameters and observe real-time changes in overall ESG performance.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1FhJpx7NPWhy4mwSvJwFxw5W3sx5-qJcV
+## 🎯 Objective
 
-## Run Locally
+This project aims to provide an intelligent, interactive decision-support interface for ESG evaluation.  
+By integrating responsive data visualization, weighted scoring, and performance analysis, it enables researchers, analysts, and decision-makers to better interpret sustainability metrics and identify improvement areas.
 
-**Prerequisites:**  Node.js
+---
+
+## 🧩 Key Features
+
+- Comprehensive dashboard for ESG scoring and analysis  
+- Real-time updates when input parameters are modified  
+- Visualization through interactive **Bar** and **Radar** charts  
+- Category-wise performance breakdown (Environmental, Social, Governance)  
+- Elegant and responsive UI with dark mode support  
+
+---
+
+## 🛠️ Technology Stack
+
+- **Frontend Framework:** React + TypeScript  
+- **Build Tool:** Vite  
+- **Styling:** Tailwind CSS  
+- **Visualization:** Chart.js  
+- **Architecture:** Modular component-based structure for scalability  
+
+---
+
+## 🌐 Live Demo
+
+You can explore the live version of the dashboard here:  
+👉 **[View on Vercel](https://ssa-dashboard-2.vercel.app)**
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
