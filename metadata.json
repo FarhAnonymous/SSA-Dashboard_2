@@ -1,0 +1,5 @@
+{
+  "name": "Interactive ESG Scoring Dashboard",
+  "description": "An interactive dashboard to model ESG (Environmental, Social, and Governance) performance. Adjust input scores for various parameters and see the overall ESG index update in real-time based on the provided framework.",
+  "requestFramePermissions": []
+}
